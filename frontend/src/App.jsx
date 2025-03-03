@@ -7,7 +7,7 @@ import PlaceOrder from './Pages/PlaceOrder/PlaceOrder'
 import Footer from './Components/Footer/Footer'
 import LoginPopup from './Components/LoginPopup/LoginPopup'
 import Verify from './Pages/Verify/Verify'
-import MyOrders from './Pages/MyOrders/myOrders'
+import MyOrders from './Pages/MyOrders/MyOrders'
 
 
 const App = () => {
